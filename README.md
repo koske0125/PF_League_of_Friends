@@ -37,4 +37,4 @@ LeagueofLegendsでフレンドを募集したいとき（初心者同士で遊�
 
 ## 使用素材
 - サイト内で使用されているRiotGamesの著作物は下記のガイドラインについて利用しております。
-  [Legal Jibber Jabber ポリシー](https://www.riotgames.com/ja/legal) (RiotGames社のページに飛びます)
+[Legal Jibber Jabber ポリシー](https://www.riotgames.com/ja/legal) (RiotGames社のページに飛びます)

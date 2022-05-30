@@ -1,24 +1,40 @@
-# README
+# <ここにアプリ名を入力>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+RiotGames社の提供するMOBAゲーム『LeagueofLegends』のフレンドを探すことができるサイトです。
+フレンドを募集するという特性から大枠としてはマッチングサイトに分類できるかと思いますが
+実際の機能としては、DM機能や掲示板機能も提供するためマッチングサイトとコミュニティサイトの機能を組み合わせたサイトです。
 
-Things you may want to cover:
+### テーマを選んだ理由
+現在、LeagueofLegendsのフレンド募集はTwitter上で募集するというのが一般的ですが下記の問題があります
+*Twitterという特性上、フレンド募集ツイートが時間が経つにつれて埋もれてしまう
+*明確なフォーマットが存在していないため、探している条件にあったフレンドを探しづらい
 
-* Ruby version
+また時点でよくある募集方法としては『掲示板』がありますが下記の問題があります
+*管理が行き届いていなく、本人になりすました悪意のある投稿が散見される
+*Twitter同様、明確なフォーマットが存在していないため、探している条件にあったフレンドを探しづらい
 
-* System dependencies
+LeagueofLegendsは5人で1チームとなり、プレイするゲームとなっているためフレンドの有無はプレイヤーのゲーム体験を大きく左右する重要な要素です。
+このサイトでは同じ初心者同士で遊びたい・同じぐらいのランク帯で一緒に遊べる人を探したい・上手い人に教えてもらいたいなど・・・
+様々な条件で検索をすることができ、条件にあったフレンドを見つけていただきプレイヤーのゲーム体験の向上を目指しています。
 
-* Configuration
+### ターゲットユーザ
+LeagueofLegendsのフレンドを探しているすべてのプレイヤー
 
-* Database creation
+### 主な利用シーン
+LeagueofLegendsでフレンドを募集したいとき（初心者同士で遊びたい・Rankモードを一緒に回す人を探したい...etc）
 
-* Database initialization
+## 設計書
+<...>
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- サイト内で使用されているRiotGamesの著作物は下記のガイドラインについて利用しております。
+  [Legal Jibber Jabber ポリシー](https://www.riotgames.com/ja/legal) (RiotGames社のページに飛びます)

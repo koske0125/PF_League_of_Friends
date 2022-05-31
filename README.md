@@ -26,7 +26,7 @@ LeagueofLegendsのフレンドを探しているすべてのプレイヤー
 LeagueofLegendsでフレンドを募集したいとき（初心者同士で遊びたい・Rankモードを一緒に回す人を探したい...etc）
 
 ## 設計書
-<...>
+後日追記致します
 
 ## 開発環境
 - OS：Linux(CentOS)
@@ -36,6 +36,6 @@ LeagueofLegendsでフレンドを募集したいとき（初心者同士で遊�
 - IDE：Cloud9
 
 ## 使用素材
-- サイト内で使用されているRiotGamesの著作物は下記のガイドラインについて利用しております。
+- サイト内で使用されているRiotGames社の著作物は下記のガイドラインに基づいて利用しております。
 
 [Legal Jibber Jabber ポリシー](https://www.riotgames.com/ja/legal) (RiotGames社のページに飛びます)

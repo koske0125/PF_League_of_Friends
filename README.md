@@ -34,7 +34,7 @@ LeagueofLegendsは5人で1チームとなり、プレイするゲームとなっ
 ## 設計書
  * [ER図](https://drive.google.com/file/d/1gTU8DJgIKC0z42o7WGf7QfHHFEYuFjnG/view?usp=sharing)
  * [データベース定義書](https://docs.google.com/spreadsheets/d/1byvsqv4GgdmQdKEnWi0d9fZa3LnqF4t8oLXNo4KUT_M/edit?usp=sharing)
- * [アプリケーション詳細設計](#)
+ * [アプリケーション詳細設計](https://docs.google.com/spreadsheets/d/1gCCfmHZJ4OCQThPaxxat-wxfRiFMT9tu/edit?usp=sharing&ouid=117394524301926319881&rtpof=true&sd=true)
 
 ## 開発環境
 - OS：Linux(CentOS)

@@ -33,7 +33,7 @@ LeagueofLegendsは5人で1チームとなり、プレイするゲームとなっ
 
 ## 設計書
  * [ER図](https://drive.google.com/file/d/1gTU8DJgIKC0z42o7WGf7QfHHFEYuFjnG/view?usp=sharing)
- * [データベース定義書](#)
+ * [データベース定義書](https://docs.google.com/spreadsheets/d/1byvsqv4GgdmQdKEnWi0d9fZa3LnqF4t8oLXNo4KUT_M/edit?usp=sharing)
  * [アプリケーション詳細設計](#)
 
 ## 開発環境

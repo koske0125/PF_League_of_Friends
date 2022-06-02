@@ -32,7 +32,7 @@ LeagueofLegendsは5人で1チームとなり、プレイするゲームとなっ
  * 同じeSportsチームが好きなプレイヤーで集まって、応援したいとき
 
 ## 設計書
-後日追記致します
+ * [ER図](https://drive.google.com/file/d/1gTU8DJgIKC0z42o7WGf7QfHHFEYuFjnG/view?usp=sharing)
 
 ## 開発環境
 - OS：Linux(CentOS)

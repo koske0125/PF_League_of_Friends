@@ -11,7 +11,7 @@ RiotGames社の提供するMOBAゲーム『LeagueofLegends』のフレンドを�
  * Twitterという特性上、フレンド募集ツイートが時間が経つにつれて埋もれてしまう
  * 明確なフォーマットが存在していないため、探している条件にあったフレンドを探しづらい
 
-また時点でよくある募集方法としては『掲示板』がありますが下記の問題があります
+また次点でよくある募集方法としては『掲示板』がありますが下記の問題があります
  * 管理が行き届いていなく、本人になりすました悪意のある投稿が散見される
  * Twitter同様、明確なフォーマットが存在していないため、探している条件にあったフレンドを探しづらい
 
@@ -32,7 +32,9 @@ LeagueofLegendsは5人で1チームとなり、プレイするゲームとなっ
  * 同じeSportsチームが好きなプレイヤーで集まって、応援したいとき
 
 ## 設計書
-後日追記致します
+ * [ER図](https://drive.google.com/file/d/1gTU8DJgIKC0z42o7WGf7QfHHFEYuFjnG/view?usp=sharing)
+ * [データベース定義書](https://docs.google.com/spreadsheets/d/1byvsqv4GgdmQdKEnWi0d9fZa3LnqF4t8oLXNo4KUT_M/edit?usp=sharing)
+ * [アプリケーション詳細設計](https://docs.google.com/spreadsheets/d/1gCCfmHZJ4OCQThPaxxat-wxfRiFMT9tu/edit?usp=sharing&ouid=117394524301926319881&rtpof=true&sd=true)
 
 ## 開発環境
 - OS：Linux(CentOS)
@@ -57,3 +59,11 @@ LeagueofLegendsは5人で1チームとなり、プレイするゲームとなっ
 >Q: リーグ・オブ・レジェンドに関連する無償のアプリケーション又はウェブサイトを作るためにライアットゲームズの画像等の知的財産を使用してもよいですか。
 >
 >A: 本ガイドライン記載のとおり、画像はご利用いただけます。但し、当社ロゴはご利用いただけません。
+
+## 重要事項
+
+LeagueofFriendsは、ライアットゲームズが公式承認するものではなく、ライアットゲームズ又はリーグ・オブ・レジェンドの製作・管理に正式に関与したいかなる者の見解・意見に基づくものではありません。
+
+リーグ・オブ・レジェンド及びライアットゲームズは、Riot Games, Inc.の商標又は登録商標です。
+
+リーグ・オブ・レジェンド © Riot Games, Inc.
